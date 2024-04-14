@@ -1,12 +1,7 @@
-## Hi there 👋
+Pontis Engineering is a leading international company, active in the rapidly growing industry of advanced composite products.
 
-<!--
+We specialize in integrated engineering solutions for the development of large fiber reinforced composites, excelling in innovative power, cost effectiveness and quality. To this end we supply a wide range of services covering the entire process from conceptual design to (serial) production and transportation.
 
-**Here are some ideas to get you started:**
+We add value to our partners by leveraging on our extensive industry knowledge and network, highly expertised workforce and international presence. Our services cover various growth markets for advanced composites, including the wind power, aerospace, transport and marine sector.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With over 20 years of experience in composites, a dedicated in-house design team and our worldwide network of engineers, materials suppliers and knowledge institutes, we are your highly qualified partner in developing state of the art composite structures.
