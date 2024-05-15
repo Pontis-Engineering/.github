@@ -2,6 +2,6 @@
 
 Welcome to our workspace where you can access our “Pontis Composite Custom Tool for Femap".
 
-For further details and instructions just click on the “femap-pontis-composites” repository.
+For further details and instructions just click on the pontis-composites-femap repository.
 
 We only encourage you to create a GitHub account (free to do) so you can leave feedback.
